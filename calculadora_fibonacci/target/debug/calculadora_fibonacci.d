@@ -1,0 +1,1 @@
+/home/joaog/Documents/Projetos\ Próprios/Projetos\ em\ Rust/calculadora_fibonacci/target/debug/calculadora_fibonacci: /home/joaog/Documents/Projetos\ Próprios/Projetos\ em\ Rust/calculadora_fibonacci/src/main.rs
